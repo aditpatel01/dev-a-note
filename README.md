@@ -3,6 +3,6 @@
 
 
 # Team Members:
-## Udain Srivastava
-## Suryansh Shrivastava
-## Adit Patel
+Udain Srivastava.\
+Suryansh Shrivastava.\
+Adit Patel.\
