@@ -4,5 +4,5 @@ Bugs&Errors
 
 # Team Members:
 Udain Srivastava
-Saurabh Dua 
+Suryansh Shrivastava
 Adit Patel
