@@ -12,7 +12,7 @@ Adit Patel\
 Madhavendra Srivastava\
 Saurabh Dua
 
-# Tech-Stack\
+# Tech-Stack
 Frontend: HTML,CSS,Bootstrap,React\
 Backend: NodeJS
 
