@@ -5,5 +5,5 @@
 # Team Members:
 Udain Srivastava\
 Suryansh Shrivastava\
-Adit Patel
-Saurabh Dua\
+Adit Patel\
+Saurabh Dua
