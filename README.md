@@ -1,8 +1,8 @@
 # Team Name:
-Bugs&Errors
+## Bugs&Errors
 
 
 # Team Members:
-##Udain Srivastava
-##Suryansh Shrivastava
-##Adit Patel
+## Udain Srivastava
+## Suryansh Shrivastava
+## Adit Patel
