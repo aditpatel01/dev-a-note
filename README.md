@@ -3,6 +3,6 @@ Bugs&Errors
 
 
 # Team Members:
-Udain Srivastava
-Suryansh Shrivastava
-Adit Patel
+# Udain Srivastava
+# Saurabh Dua 
+# Adit Patel
